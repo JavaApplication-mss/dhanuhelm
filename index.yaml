@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java-web-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-10T00:00:06.711451895Z"
+    description: A Helm chart for Kubernetes
+    digest: 09ada7a84c86391a2602e29fe1caa2cb481e3c60e8e0e9a9b1d24d293fd5a321
+    name: java-web-app
+    type: application
+    urls:
+    - https://javaapplication-mss.github.io/dhanuhelm/java-web-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-10T00:00:06.710001667Z"
